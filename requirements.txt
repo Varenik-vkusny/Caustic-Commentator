@@ -1,0 +1,9 @@
+mss
+google-genai
+edge-tts
+pygame
+python-dotenv
+pillow
+cffi
+sounddevice
+numpy
